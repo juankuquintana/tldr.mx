@@ -5,13 +5,13 @@ export default function Home() {
           <div>
             <h1 className="mb-2">&#128075; I&apos;m Juan</h1>
             <p className="mb-2">
-              First, I started as a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://www.nicmexico.mx/" target="_blank">nic.mx</a>
+              Started as a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://www.nicmexico.mx/" target="_blank">nic.mx</a>
             </p>
             <p className="mb-2">
               Then, founded <span className="font-semibold text-gray-900">Nominal</span>, a <a className="font-medium text-blue-600 underline hover:no-underline" href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a> SaaS invoicing platform
             </p>
             <p className="mb-2">
-              Later, I joined <a className="font-medium text-blue-600 underline hover:no-underline" href="https://yellow.me/" target="_blank">Yellowme</a> as partner, a digital product agency
+              Later, I joined <a className="font-medium text-blue-600 underline hover:no-underline" href="https://yellow.me/" target="_blank">Yellowme</a>, a digital product agency, as a partner
             </p>
             <p>
               Now, I&apos;m a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://dnsimple.com/" target="_blank">DNSimple</a>
