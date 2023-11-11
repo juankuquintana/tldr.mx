@@ -5,7 +5,7 @@ export default function Home() {
           <div>
             <h1 className="mb-2">&#128075; I&apos;m Juan</h1>
             <p className="mb-2">
-              Started as a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://www.nicmexico.mx/" target="_blank">nic.mx</a>
+              I started as a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://www.nicmexico.mx/" target="_blank">nic.mx</a>
             </p>
             <p className="mb-2">
               Then, founded <span className="font-semibold text-gray-900">Nominal</span>, a <a className="font-medium text-blue-600 underline hover:no-underline" href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a> SaaS invoicing platform
