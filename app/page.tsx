@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="md:h-screen flex mx-6 mt-20 md:mt-0 md:items-center md:mx-24">
+    <main className="md:h-screen flex mx-6 mt-10 md:mt-0 md:items-center md:mx-24">
       <div className="w-screen flex flex-col md:flex-row md:justify-between">
         <div>
           <h1 className="mb-2">&#128075; I&apos;m Juan</h1>
