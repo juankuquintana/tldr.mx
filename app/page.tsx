@@ -9,7 +9,7 @@ export default function Home() {
             I started as a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://www.nicmexico.mx/" target="_blank">nic.mx</a>
           </p>
           <p className="mb-2">
-            Then, founded <span className="font-semibold text-gray-900">Nominal</span>, a SaaS invoicing platform built with <a className="font-medium text-blue-600 underline hover:no-underline" href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>
+            Then, founded <a className="font-medium text-blue-600 underline hover:no-underline" href="https://nominal.mx/" target="_blank">nominal.mx</a>, an online invoicing platform
           </p>
           <p className="mb-2">
             Later, I became a partner at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://yellow.me/" target="_blank">Yellowme</a>, a digital product agency
@@ -39,13 +39,16 @@ export default function Home() {
           </div>
         </div>
         <div className="mt-10 md:mt-0">
-          <div className="mb-10 md:mb-20">
-            <h3 className="font-bold mb-2">Working on</h3>
+          <div className="mb-10 md:mb-15">
+            <h3 className="font-bold mb-2">I also work on</h3>
             <p className="mb-2">
               <a className="font-medium text-blue-600 underline hover:no-underline" href="https://workremote.mx" target="_blank">workremote.mx</a>, curated remote jobs for mexicans built with <a className="font-medium text-blue-400 hover:no-underline" href="https://www.phoenixframework.org/" target="_blank">Phoenix Framework</a>
             </p>
             <p className="mb-2">
-              And of course, <a className="font-medium text-blue-600 underline hover:no-underline" href="https://tldr.mx">tldr.mx</a>, a minimalistic website built with <a className="font-medium text-blue-400 hover:no-underline" href="https://nextjs.org/" target="_blank">NextJS</a>
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://nominal.mx" target="_blank">nominal.mx</a>, a SaaS invoicing platform built with <a className="font-medium text-blue-400 hover:no-underline" href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>
+            </p>
+            <p className="mb-2">
+              And of course, <a className="font-medium text-blue-600 underline hover:no-underline" href="https://tldr.mx">tldr.mx</a>, built with <a className="font-medium text-blue-400 hover:no-underline" href="https://nextjs.org/" target="_blank">NextJS</a>
             </p>
           </div>
           <div>
