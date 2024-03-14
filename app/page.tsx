@@ -40,7 +40,7 @@ export default function Home() {
         </div>
         <div className="mt-10 md:mt-0">
           <div className="mb-10 md:mb-15">
-            <h3 className="font-bold mb-2">I'm also working on...</h3>
+            <h3 className="font-bold mb-2">I&apos;m also working on...</h3>
             <p className="mb-2">
               <a className="font-medium text-blue-600 underline hover:no-underline" href="https://workremote.mx" target="_blank">workremote.mx</a>, curated remote jobs for mexicans built with <a className="font-medium text-blue-400 hover:no-underline" href="https://www.phoenixframework.org/" target="_blank">Phoenix Framework</a>
             </p>
@@ -53,14 +53,12 @@ export default function Home() {
           </div>
           <div>
             <h3 className="font-bold mb-2">Latest reads</h3>
-            <ul>
-              <p className="mb-2">
-                <a className="font-medium text-blue-600 underline hover:no-underline" href="https://randsinrepose.com/archives/stables-and-volatiles/" target="_blank">Stables and volatiles</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://randsinrepose.com/" target="_blank">randsinrepose.com</a>
-              </p>
-              <p className="mb-2">
-                <a className="font-medium text-blue-600 underline hover:no-underline" href="https://signalvnoise.com/posts/1430-hire-managers-of-one" target="_blank">Managers of one</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://signalvnoise.com/" target="_blank">signalvnoise.com</a>
-              </p>
-            </ul>
+            <p className="mb-2">
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://randsinrepose.com/archives/stables-and-volatiles/" target="_blank">Stables and volatiles</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://randsinrepose.com/" target="_blank">randsinrepose.com</a>
+            </p>
+            <p className="mb-2">
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://signalvnoise.com/posts/1430-hire-managers-of-one" target="_blank">Managers of one</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://signalvnoise.com/" target="_blank">signalvnoise.com</a>
+            </p>
           </div>
         </div>
       </div>
