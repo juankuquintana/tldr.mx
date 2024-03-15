@@ -59,6 +59,15 @@ export default function Home() {
             <p className="mb-2">
               <a className="font-medium text-blue-600 underline hover:no-underline" href="https://signalvnoise.com/posts/1430-hire-managers-of-one" target="_blank">Managers of one</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://signalvnoise.com/" target="_blank">signalvnoise.com</a>
             </p>
+            <p className="mb-2">
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://hamvocke.com/blog/better-off-without-pull-requests/" target="_blank">Better without pull requests</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://hamvocke.com/" target="_blank">hamvocke.com</a>
+            </p>
+            <p className="mb-2">
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://hamvocke.com/blog/path-to-production/" target="_blank">Path to production</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://hamvocke.com/" target="_blank">hamvocke.com</a>
+            </p>
+            <p className="mb-2">
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://www.paulgraham.com/aord.html" target="_blank">Default alive or dead?</a> from <a className="font-medium text-blue-400 hover:no-underline" href="https://www.paulgraham.com" target="_blank">paulgraham.com</a>
+            </p>
           </div>
         </div>
       </div>
