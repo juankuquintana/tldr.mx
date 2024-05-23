@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="md:h-screen flex mx-6 mt-10 md:mt-0 md:items-center md:mx-24">
+    <main className="md:h-screen flex mx-6 mt-10 md:mt-0 md:items-center md:mx-12 lg:mx-24 2xl:mx-80">
       <div className="w-screen flex flex-col md:flex-row md:justify-between">
         <div className="md:hidden mt-2 mb-8">——</div>
         <div>
@@ -12,10 +12,10 @@ export default function Home() {
             Then, founded <a className="font-medium text-blue-600 underline hover:no-underline" href="https://nominal.mx/" target="_blank">nominal.mx</a>, an online invoicing platform
           </p>
           <p className="mb-2">
-            Later, I became a partner at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://yellow.me/" target="_blank">Yellowme</a>, a digital product agency
+            Later, I became a partner at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://yellow.me/" target="_blank">Yellowme</a>, a product agency
           </p>
           <p>
-            Now, I&apos;m a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://dnsimple.com/" target="_blank">DNSimple</a>
+            Nowadays, I&apos;m a software engineer at <a className="font-medium text-blue-600 underline hover:no-underline" href="https://dnsimple.com/" target="_blank">DNSimple</a>
           </p>
           <div className="flex pt-4 sm:mt-0">
             <a href="https://www.linkedin.com/in/juankuquintana/" target="_blank" className="text-gray-500 hover:text-gray-900">
@@ -40,15 +40,12 @@ export default function Home() {
         </div>
         <div className="mt-10 md:mt-0">
           <div className="mb-10 md:mb-15">
-            <h3 className="font-bold mb-2">I&apos;m also working on...</h3>
+            <h3 className="font-bold mb-2">Also working on...</h3>
             <p className="mb-2">
-              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://workremote.mx" target="_blank">workremote.mx</a>, curated remote jobs for mexicans built with <a className="font-medium text-blue-400 hover:no-underline" href="https://www.phoenixframework.org/" target="_blank">Phoenix Framework</a>
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://remotely.mx" target="_blank">remotely.mx</a>, a remote jobs board for 🇲🇽
             </p>
             <p className="mb-2">
-              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://nominal.mx" target="_blank">nominal.mx</a>, a SaaS invoicing platform built with <a className="font-medium text-blue-400 hover:no-underline" href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>
-            </p>
-            <p className="mb-2">
-              And of course, <a className="font-medium text-blue-600 underline hover:no-underline" href="https://tldr.mx">tldr.mx</a>, built with <a className="font-medium text-blue-400 hover:no-underline" href="https://nextjs.org/" target="_blank">NextJS</a>
+              <a className="font-medium text-blue-600 underline hover:no-underline" href="https://nominal.mx" target="_blank">nominal.mx</a>, a SaaS invoicing platform
             </p>
           </div>
           <div>
